@@ -5,11 +5,17 @@
 }
 
 .junior {
+  /* Original */
   background-color: #aad742;
+  /* Darken the color to make text white */
+  background-color: #91bd28;
 }
 
 .intermediate {
+  /* Original */
   background-color: #f1b604;
+  /* Darken the color to make text white */
+  background-color: #c99703;
 }
 
 .advanced {
