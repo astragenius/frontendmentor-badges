@@ -1,0 +1,21 @@
+/* Difficulty Badges Color */
+
+.newbie {
+  background-color: #6abecd;
+}
+
+.junior {
+  background-color: #aad742;
+}
+
+.intermediate {
+  background-color: #f1b604;
+}
+
+.advanced {
+  background-color: #f48925;
+}
+
+.guru {
+  background-color: #ed2c49;
+}
